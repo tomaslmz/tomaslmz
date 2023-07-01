@@ -2,7 +2,7 @@
 
 - Me chamo Tomás, tenho 18 anos e atualmente estou fazendo um curso técnico de Análise e Desenvolvimento de Sistemas.
 
-<p align="center"><a href="https://tomaslmz.github.io/html-css/">Meu portfólio</a></p>
+<p align="center"><a href="https://tomaslmz.github.io/portfolio/">Meu portfólio</a></p>
 
 <h3 align="center">Tecnologias</h3>
 
