@@ -1,6 +1,6 @@
 <h3 align="center">Olá! 👋</h3>
 
-- Me chamo Tomás, tenho 18 anos e atualmente estou fazendo um curso técnico de Análise e Desenvolvimento de Sistemas.
+- Me chamo Tomás, tenho 18 anos e atualmente estou fazendo um curso técnico de Desenvolvimento de Sistemas.
 
 <p align="center"><a href="https://tomaslmz.github.io/portfolio/">Meu portfólio</a></p>
 
