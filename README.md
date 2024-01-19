@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tomaslmz.github.io/portfolio/](https://tomaslmz.github.io/portfolio/)
 
-- 💬 Ask me about **Anime, music and techonology**
+- 💬 Ask me about **Anime, games and techonology**
 
 - 📫 How to reach me **tomas153lm@gmail.com**
 
